@@ -1,0 +1,9 @@
+Solar Energy Consultant,Abi,7500
+Home inspection service,Swetha,3250
+Deep House Cleaning,Vishnu,2500
+Apartment Prepping,Bavi,2500
+FloorCleaning,asha,900
+DishCleaning,sultan,900
+PlantKeeping,Felix,789
+Washing,Mia,900
+Washing,Swetha,500

@@ -1,0 +1,8 @@
+Swetha,9994477434,Thermodynamics,Krishna,9988776655,kitts.davuluri@gmail.com,10/05/2021,03:15 PM,30,30,450
+Swetha,9994477434,Machine Learning,Lakshmi,9669878900,lakshmi0212@gmail.com,10/05/2021,05:30 PM,45,20,600
+Swetha,9994477434,Machine Learning,Lakshmi,9669878900,lakshmi0212@gmail.com,10/05/2021,05:30 PM,45,20,600
+Swetha,9677654345,Machine Learning,Lakshmi,9669878900,lakshmi0212@gmail.com,10/05/2021,05:30 PM,45,19,600
+Swetha,9994477434,Geology,Karthick,9687098760,karthick@gmail.com,11/05/2021,12:45 PM,45,15,2000
+Swetha,9994477434,Soft Computing,Divi,9898989898,divi2306@gmail.com,11/05/2021,05:30 PM,30,30,550
+Swetha,9994477434,French,Krishna,9988776655,kitts.davuluri@gmail.com,12/05/2021,01:45 PM,60,24,1500
+Swetha,9994477434,Machine Learning,Lakshmi,9669878900,lakshmi0212@gmail.com,10/05/2021,05:30 PM,45,18,600

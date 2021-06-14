@@ -1,0 +1,9 @@
+Karthick,K@rthick18,9687098760,karthick@gmail.com,Staff Access
+Swetha,$weth@18,9677654345,swetha.miki18@gmail.com,Admin Access
+Krishna,Kittu,9988776655,kitts.davuluri@gmail.com,Admin Access
+Divi,Divi@23,9898989898,divi2306@gmail.com,Admin Access
+Faizal,Faizal@18,9988776655,faizal@gmail.com,Staff Access
+Lakshmi,L@k$hmi,9669878900,lakshmi0212@gmail.com,Staff Access
+Manju,Manju@234,9876546789,manju@gmail.com,Staff Access
+dia,di@,9876543210,dia@gmail.com,Staff Access
+Dia,D@@ia,9876543210,dia@gmail.com,Staff Access

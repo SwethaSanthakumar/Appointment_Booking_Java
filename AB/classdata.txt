@@ -1,0 +1,22 @@
+Botany,600,60,30
+Zoology,500,40,30
+Maths,500,40,30
+Physics,750,60,25
+Chemistry,1500,40,30
+EVS,800,45,10
+ES,400,30,20
+EM,450,25,25
+Software Engineering,1500,60,40
+Machine Learning,600,45,20
+Geology,2000,45,15
+Mechanics,2000,75,10
+Thermodynamics,450,30,30
+Soft Computing,550,30,30
+Artificial Intelligence,1200,45,20
+UI,500,40,10
+Deep Learning,600,30,12
+Robotics,500,30,20
+French,1500,60,25
+German,850,60,30
+Bio,450,45,34
+ClassData@66d3c617.s

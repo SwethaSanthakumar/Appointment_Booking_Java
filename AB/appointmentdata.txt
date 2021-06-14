@@ -1,0 +1,60 @@
+14/03/2021,Swetha,9994477434,swetha.py09@gmail.com,Deep House Cleaning,2000,01 PM-02 PM
+14/03/2021,Harini,8903949824,harini@gmail.com,Interior decorator,1200,04 PM-05 PM
+15/03/2021,Harini,8903949824,harini@gmail.com,Interior decorator,1200,05 PM-06 PM
+15/03/2021,Harini,8903949824,harini@gmail.com,Deep House Cleaning,2000,02 PM-03 PM
+15/03/2021,Swetha,9994477434,swetha.py09@gmail.com,Interior decorator,1200,03 PM-04 PM
+15/03/2021,Navin,8300677082,navin@gmail.com,Solar Energy Consultant,5000,06 PM-07 PM
+15/03/2021,Swetha,9994477434,swetha.py09@gmail.com,Cleaning,300,07 PM-08 PM
+15/03/2021,Swetha,9994477434,swetha.py09@gmail.com,Cleaning,300,08 PM-09 PM
+15/03/2021,Swetha,9994477434,swetha.py09@gmail.com,Cleaning,300,10 PM-11 PM
+15/03/2021,Varshi,9100811819,varshi@gmail.com,Home energy auditor,4500,09 PM-10 PM
+15/03/2021,Varshi,9100811819,varshi@gmail.comHome energy auditor,4500,11 PM-12 AM
+16/03/2021,Shafreena,9988112233,shaf@gmail.com,Personal Organiser,4500,11 AM-12 PM
+16/03/2021,Shafreena,9988112233,shaf@gmail.com,Solar Energy Consultant,7500,11 AM-01 PM
+16/03/2021,Varshi,9100811819,varshi@gmail.com,Solar Energy Consultant,7500,12 PM-01 PM
+16/03/2021,Varshi,9100811819,varshi@gmail.com,Solar Energy Consultant,7500,02 PM-05 PM
+16/03/2021,Varshi,9100811819,varshi@gmail.com,Home energy auditor,4500,11 AM-02 PM
+16/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Solar Energy Consultant,7500,01 PM-02 PM
+16/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Solar Energy Consultant,7500,03 PM-04 PM
+17/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Solar Energy Consultant,7500,11 AM-12 PM
+17/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Solar Energy Consultant,7500,05 AM-07 AM
+17/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Handyman Services,3000,07 AM-09 AM
+17/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Solar Energy Consultant,7500,05 PM-06 PM
+17/03/2021,Varshi,9100811819,varshi@gmail.com,Solar Energy Consultant,7500,10 PM-11 PM
+17/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Handyman Services,3000,07 AM-09 AM
+17/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Home inspection service,3250,09 PM-11 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Solar Energy Consultant,7500,06 AM-07 AM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Home energy auditor,4500,12 PM-01 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Personal Organiser,4500,02 PM-03 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Dish Washing,500,11 PM-12 AM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Home energy auditor,4500,10 PM-11 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Personal Organiser,4500,05 PM-06 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Personal Organiser,4500,04 PM-05 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Solar Energy Consultant,7500,03 PM-04 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Solar Energy Consultant,7500,06 PM-07 PM
+18/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Garden Services,850,09 PM-10 PM
+22/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Solar Energy Consultant,7500,06 AM-07 AM
+22/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Garden Services,850,09 AM-10 AM
+22/03/2021,Kittu,9182571336,kitts.davuluri@gmail.com,Solar Energy Consultant,7500,11 AM-12 PM
+22/03/2021,Siva,7904130766,siva@gmail.com,Personal Organiser,4500,10 PM-11 PM
+22/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Home energy auditor,4500,11 PM-12 AM
+23/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Solar Energy Consultant,7500,11 AM-12 PM
+23/03/2021,Jey,7788990099,jey@gmail.com,Handyman Services,3000,07 AM-08 AM
+23/03/2021,Miki,9123456780,miki@gmail.com,Home energy auditor,4500,08 AM-09 AM
+23/03/2021,Miki,9123456780,miki@gmail.com,Personal Organiser,4500,09 AM-10 AM
+23/03/2021,Jey,7788990099,jey@gmail.com,Solar Energy Consultant,7500,03 PM-05 PM
+23/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Home energy auditor,4500,09 PM-10 PM
+25/03/2021,Kittu,9182571336,kitts.davuluri@gmail.com,Apartment Prepping,2500,08 AM-09 AM
+25/03/2021,Yogam,9080060741,yogamrak@gmail.com,Floor Cleaning,400,11 PM-12 AM
+25/03/2021,Swetha,9626051138,swetha.py09@gmail.com,Apartment Prepping,2500,12 PM-01 PM
+25/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Dish Washing,1000,07 PM-08 PM
+25/03/2021,Kittu,9182571336,kitts.davuluri@gmail.com,Interior Decorations,5000,10 PM-11 PM
+25/03/2021,Swetha,9994477434,swetha.miki18@gmail.com,Solar Energy Consultant,7500,09 PM-10 PM
+26/03/2021,Kittu,9182571336,kitts.davuluri@gmail.com,Apartment Prepping,2500,07 AM-08 AM
+26/03/2021,Miki,9123456780,miki@gmail.com,Personal Organiser,4500,08 AM-9 AM
+26/03/2021,Jey,7788990099,jey@gmail.com,Solar Energy Consultant,7500,05 PM-06 PM
+22/03/2021,Swetha,9677654345,swetha.py09@gmail.com,Garden Services,850,06 PM-7 PM
+
+26/03/2021,Swetha,9677654345,swetha.py09@pec.edu,Solar Energy Consultant,7500,11 AM-12 PM
+26/03/2021,Divya,9943943334,divyarupakala@pec.edu,Deep House Cleaning,2500,01 PM-02 PM
+27/03/2021,Shafreena,9988112233,shaf@gmail.com,Home inspection service,3250,11 AM-12 PM

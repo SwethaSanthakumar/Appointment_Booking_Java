@@ -1,0 +1,119 @@
+ValidateMobile
++ isValidMobile(mobile : String) : boolean
+
+ValidateEmail
++ isValidEmail(email : String) : boolean
+
+ValidateCustomer
+
++ validateCustomerName : String
++ validateCustomerMobileNo : long
++ validateCustomer : boolean
++ existingCustomerName : ArrayList<String>
++ existingMobileNo : ArrayList<Long>
++ customerDataFilePath : String
++ line : String
++ parts : String[]
++ customerDataReader : BufferedReader
+
++ validateCustomerDetails() : void
+
+ValidateStaff
+
++ staffName : String
++ staffPassword : String
++ staffAccessRole : String
++ validateStaff : boolean
++ existingStaffName : ArrayList<String>
++ existingStaffPassword : ArrayList<String>
++ staffDataFilePath : String
++ loginDataFilePath : String
++ line : String
++ parts : String[]
++ staffDataReader : BufferedReader
++ loginDataWriter : BufferedWriter
+
++ validateStaffDetails() : void
+
+Staff
+ 
++ staffName : String
++ staffPassword : String
++ staffMobileNo : long
++ staffEmail : String
++ staffAccess : String
+
++ Staff()
++ Staff(staffPassword : String,staffMobileNo : long,staffEmail : String,staffAccess : String)
++ toString() : String
+
+
+Customer
+public String customerName;
+public long customerMobileNo;
+public String customerEmail;
+
+public Customer(){}
+
+public Customer(long customerMobileNo,String customerEmail) 
++ toString() : String
+
+UpdateStaffDetails
+
++ staffMap : Map<String,Staff> 
++ name : String
++ password : String
+	public String mobile;
+	public String email;
+	public String access;
+	public long mobileNo;
+	
+	public String newPassword;
+	public long newMobile;
+	public String newEmail;
+	public String newAccess;
+	
+	public String loggedInStaff;
+	public String existingLoggedInStaff;
+	
+	public String staffDataFilePath = "C:/Users/Admin/Desktop/Intern/Java/AB/staffdata.txt";
+	public File loginFilePath = new File("C:/Users/Admin/Desktop/Intern/Java/AB/logindata.txt"); 
+	public String line;
+	public String parts[];
+	public BufferedReader staffDataReader;
+	public BufferedReader staffLoggedInDataReader; 
+	public BufferedWriter staffDataBufferedWriter;
+	public FileWriter staffDataFileWriter;
+	public PrintWriter staffDataPrintWriter ;
+	public ArrayList<String> existingStaffName = new ArrayList<String>();
+
++ existingStaffData() : void
++ updatePassword(staffName : String) : void
++ updateEmail(staffName : String) : void
++ updateAccessRole(staffName : String) : void
++ updateMobileNo(staffName : String) : void
+
+
+StaffData
+
+
+public String staffName;
+public String staffPassword;
+public long staffMobileNo;
+public String staffEmail;
+public String staffAccessControl;
+
+public String staffNameToBeUpdated;
+
+UpdateStaffDetails updateStaffDetails = new UpdateStaffDetails();
+
++ createStaff() : void
++ displayStaffData() : void
++ updateAdminAccessData() : void
++ updateStaffAccessData() : void
+
+
+
+
+
+
